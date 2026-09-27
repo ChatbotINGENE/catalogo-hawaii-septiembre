@@ -799,6 +799,25 @@ const SECCIONES = [
       "llena": false
      }
     ]
+   },
+   {
+    "id": "11207420-ramo-rosa-mondial-9",
+    "nombre": "Ramo rosa Mondial × 9",
+    "medida": null,
+    "piezas": null,
+    "ahorro": 21,
+    "desc": "Color salmón. Precio de preventa por unidad.",
+    "variantes": [
+     {
+      "sku": "11207420",
+      "color": "Salmón",
+      "regular": 4.75,
+      "preventa": 3.75,
+      "ahorro": 21,
+      "img": "img/productos/11207420-ramo-rosa-mondial-9.webp",
+      "llena": false
+     }
+    ]
    }
   ]
  },

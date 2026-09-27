@@ -94,6 +94,7 @@ const TONOS = {
   'perla':              '#F1EADB',
   'rosado':             '#F2A7C3',
   'rosado intenso':     '#E0508E',
+  'salmon':             '#F2A283',
   'verde claro':        '#8CC66B',
   'verde oscuro':       '#1F4D2E',
   'azul rayada':        '#3E74B5',
